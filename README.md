@@ -9,6 +9,7 @@
 - [Model API's](#Model-API's)
 - [Acknowledgement](#Acknowledgement)
 - [Team Members](#Team-Members)
+- [Link to SRS](#Link-to-SRS)
 - [References](#References)
 
 ---
@@ -46,7 +47,6 @@ npm run dev
 - Hyper Text Markup Language (HTML)
 - Cascading Style Sheets (CSS)
 - Javascript
-- NodeJS
 - Tesseract.js
 - React-pdf, React-speech, React-speech-kit
 
@@ -60,6 +60,7 @@ npm run dev
 ### **Acknowledgement**
 This software project was developed as a part of the course CS258(Software Management) under the guidance of Dr.Puneet Gupta, Assistant Professor Discipline of Computer Science and Engineering at IIT Indore.
 
+
 ---
 ### **Team Members**
 Group-15
@@ -69,5 +70,24 @@ Group-15
 4. [Tanisha Sahu](https://github.com/10isha)(210001071)
 
 ---
+### **Link to SRS**
+- [SRS Document](https://www.overleaf.com/read/mkjwhshmgdgp)
+
+---
+### **Images**
+
+<img width="600" alt="Screenshot 2023-07-18 at 12 33 00 AM" src="https://github.com/aditiganvir28/Document_Parser/assets/107802412/17aff786-ba23-4ee0-ad07-0596fc749c30">
+<br></br>
+<img width="600" alt="Screenshot 2023-07-18 at 12 32 54 AM" src="https://github.com/aditiganvir28/Document_Parser/assets/107802412/39126a7b-2ef0-4afe-9220-371ff819ca74">
+<br></br>
+<img width="600" alt="Screenshot 2023-07-18 at 12 33 42 AM" src="https://github.com/aditiganvir28/Document_Parser/assets/107802412/ad8bbf9b-54cc-42da-bf48-a44126f08fea">
+<br></br>
+<img width="600" alt="Screenshot 2023-07-18 at 12 33 15 AM" src="https://github.com/aditiganvir28/Document_Parser/assets/107802412/2a86a0ac-33cd-4609-bea4-c75074241f6c">
+<br></br>
+<img width="600" src="https://github.com/aditiganvir28/Document_Parser/assets/107802412/6d957dc8-f08c-4270-a470-911e7d5a7d0a">
+<br></br>
+<img width="600" src="https://github.com/aditiganvir28/Document_Parser/assets/107802412/c025e995-3469-4355-a6d8-4c95f677748e">
+
+
 ### **References**
 - https://tesseract.projectnaptha.com
